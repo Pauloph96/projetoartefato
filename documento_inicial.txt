@@ -1,0 +1,1 @@
+ Objetivo de armazenar e gerenciar de forma segura todos os artefatos essenciais do projeto de software. Ele permite o versionamento e controle adequado de documentos como requisitos, diagramas, código-fonte, manuais e casos de teste. Além disso, facilita a colaboração entre os membros do time e garante conformidade com boas práticas de governança, ITIL e COBIT.
